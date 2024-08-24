@@ -1,4 +1,4 @@
-#Follow the below instructions to execute the app
+# Follow the below instructions to execute the app
 
 env_site contains the virtual environment.
 foodgram folder contains the backend setup.
